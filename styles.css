@@ -1,0 +1,24 @@
+body {
+  padding: 20px;
+}
+
+button {
+  background-color: #0c80f3;
+  border: 6px solid #0ff166;
+  border-radius: 10px;
+  width: 150px;
+  font-family: "Roboto", sans-serif;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.atm-controls {
+  margin-top: 15px;
+  padding: 30px;
+  background: lightcoral;
+  border: #0c80f3 1px;
+  border-radius: 4px;
+}
